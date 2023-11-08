@@ -3,8 +3,7 @@ public class Prueba {
     public static void main(String[] args) {
         int y = 5;
         int z = x + y;
-        int numero = z;
         long facto = factorial(y);
-        System.out.println("El valor de z y facto es: " + z + ", " + facto);
+        System.out.println("El valor de z y facto es: "+ z + ", " + facto);
     }
 }
